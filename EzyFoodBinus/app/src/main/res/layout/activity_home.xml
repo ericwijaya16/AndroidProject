@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivity">
+    <ImageButton
+        android:id="@+id/buttonFood"
+        android:layout_width="187dp"
+        android:layout_height="142dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="137dp"
+        android:background="@android:color/transparent"
+        android:src="@drawable/food" />
+
+    <ImageButton
+        android:id="@+id/buttonDrink"
+        android:layout_width="168dp"
+        android:layout_height="140dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="229dp"
+        android:layout_marginLeft="229dp"
+        android:layout_marginTop="136dp"
+        android:background="@android:color/transparent"
+        android:src="@drawable/drink" />
+
+    <ImageButton
+        android:id="@+id/buttonSnack"
+        android:layout_width="168dp"
+        android:layout_height="140dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="347dp"
+        android:background="@android:color/transparent"
+        android:src="@drawable/popcorns" />
+
+    <ImageButton
+        android:id="@+id/buttonTopup"
+        android:layout_width="169dp"
+        android:layout_height="148dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="215dp"
+        android:layout_marginLeft="215dp"
+        android:layout_marginTop="347dp"
+        android:background="@android:color/transparent"
+        android:src="@drawable/topups" />
+
+</RelativeLayout>

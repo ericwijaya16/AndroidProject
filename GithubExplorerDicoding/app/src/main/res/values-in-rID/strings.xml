@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">submission3</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="name">Nama</string>
+    <string name="location">Lokasi</string>
+    <string name="tab1">Pengikut</string>
+    <string name="tab2">Mengikuti</string>
+    <string name="progressMessage">Memuat...</string>
+    <string name="language">Bahasa</string>
+    <string name="favorite">Favorit</string>
+    <string name="alarm">Pengingat Harian</string>
+    <string name="title_alarm">Pengaturan Pengingat Harian</string>
+    <string name="daily">Saatnya membuka aplikasi Github!</string>
+    <string name="reminder_on">Pengingat Harian Nyala</string>
+    <string name="reminder_off">Pengingat Harian Mati</string>
+    <string name="failed">Permintaan tidak berhasil</string>
+</resources>

@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">EzyFoodBinus</string>
+    <string-array name="food_list">
+        <item>Fried Chicken</item>
+        <item>Fried Rice</item>
+        <item>Fried Duck</item>
+        <item>Fried Noodle</item>
+        <item>Steak</item>
+    </string-array>
+    <string-array name="desc">
+        <item>Chicken Deep Fried with
+              Rich Flavor</item>
+        <item>Rice Fried with Rich Flavor</item>
+        <item>Duck Fried with Rich Flavor</item>
+        <item>Noodle Fried with Rich Flavor</item>
+        <item>Steak with Rich Flavor</item>
+    </string-array>
+    <string-array name="price">
+        <item>Rp.60.000,00</item>
+        <item>Rp.45.000,00</item>
+        <item>Rp.200.000,00</item>
+        <item>Rp.30.000,00</item>
+        <item>Rp.90.000,00</item>
+    </string-array>
+    <string-array name="drink_list">
+        <item>Melon Juice</item>
+        <item>Mango Juice</item>
+        <item>Fanta</item>
+        <item>Coca cola</item>
+        <item>Iced Tea</item>
+    </string-array>
+    <string-array name="desc_drink">
+        <item>Juice Made with Fresh Melon</item>
+        <item>Juice Made with Fresh Mango</item>
+        <item>Good Old Fanta</item>
+        <item>Good Old Coca Cola</item>
+        <item>English Breakfast Tea with Ice</item>
+    </string-array>
+    <string-array name="price_drink">
+        <item>Rp.15.000,00</item>
+        <item>Rp.20.000,00</item>
+        <item>Rp.5.000,00</item>
+        <item>Rp.8.000,00</item>
+        <item>Rp.10.000,00</item>
+    </string-array>
+    <string-array name="snack_list">
+        <item>French Fries</item>
+        <item>Sausage</item>
+        <item>Popcorn</item>
+        <item>Fish Ball</item>
+        <item>Nachos</item>
+    </string-array>
+    <string-array name="desc_snack">
+        <item>Deep Fried Fries</item>
+        <item>Deep Fried Sausage</item>
+        <item>Popcorn with Butter</item>
+        <item>Deep Fried Fish Ball</item>
+        <item>Nachos with Jalapeno Sauce</item>
+    </string-array>
+    <string-array name="price_snack">
+        <item>Rp.12.000,00</item>
+        <item>Rp.8.000,00</item>
+        <item>Rp.20.000,00</item>
+        <item>Rp.15.000,00</item>
+        <item>Rp.11.000,00</item>
+    </string-array>
+</resources>

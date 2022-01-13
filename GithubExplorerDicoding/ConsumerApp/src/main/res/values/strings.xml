@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Consumer App</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="location">Location</string>
+    <string name="tab1">Follower</string>
+    <string name="tab2">Following</string>
+    <string name="progressMessage">Loading...</string>
+    <string name="language">Language</string>
+    <string name="favorite">Favorite</string>
+    <string name="alarm">Daily Reminder</string>
+    <string name="title_alarm">Daily Reminder Setting</string>
+    <string name="daily">Its time to open your Github App!</string>
+    <string name="reminder_on">Daily reminder on</string>
+    <string name="reminder_off">Daily reminder off</string>
+    <string name="failed">Request Not Success</string>
+</resources>

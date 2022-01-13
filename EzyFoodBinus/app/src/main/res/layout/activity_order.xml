@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    tools:context=".OrderActivity">
+
+    <ImageView
+        android:id="@+id/foodImageOrder"
+        android:layout_width="163dp"
+        android:layout_height="148dp"
+        android:layout_marginTop="208dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_launcher_foreground"
+        tools:ignore="VectorDrawableCompat" />
+
+    <TextView
+        android:id="@+id/foodOrdertxt"
+        android:layout_width="142dp"
+        android:layout_height="61dp"
+        android:layout_marginTop="44dp"
+        android:fontFamily="@font/advent_pro_medium"
+        android:text="Title Food"
+
+        android:textSize="13pt"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/foodImageOrder" />
+
+    <TextView
+        android:id="@+id/foodPricetxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="41dp"
+        android:fontFamily="@font/advent_pro"
+        android:text="Prize"
+        android:textSize="10pt"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/foodOrdertxt" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
